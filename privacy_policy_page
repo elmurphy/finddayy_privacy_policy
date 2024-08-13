@@ -1,0 +1,158 @@
+Privacy Policy
+Date of issue: Aug 13, 2024
+
+Main provisions
+In this document, “Company”, “We”, “Us” and “Our” shall refer to:
+
+Contact email: spamscammer1995@gmail.com
+
+This Privacy Policy shall be applied to software and mobile applications owned and operated by the Company, the Website and its subdomains.
+
+Privacy Policy describes how We receive, collect, use and manage personal information provided by you or which, official communities of the Company in social networks, official forums of the Company, Real Time GPS Tracker mobile applications, Mobile Dispatcher and LiveGPS Travel Tracker (hereinafter referred to as “Applications”, together with the Website “Service”, all services provided through the Website and Applications, as “Services”), as well as the choice and rights regarding the collection and use of personal information.
+
+We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy shall not apply to information that we collect in other ways (including offline) or from other sources. The use of information collected through our Service shall be limited to the purposes specified in this Privacy Policy.
+
+The Privacy Policy applies to all visitors and users of the Service (hereinafter referred to as “Users” or “You”).
+
+Before accessing or using Our Services, make sure you read and understand how We receive, collect, store, use and disclose your personal information as described herein.
+
+Data that we collect and receive
+To provide you with our Services, We may collect or receive data, which may include personal data voluntarily provided during the registration process, reporting problems with our services, posting materials or information automatically collected during the provision of the Services.
+
+We collect the following types of information:
+
+1. Registration and login information
+The Service allows Users to create a personal account. When you create a personal account, We may collect your personal data, such as your email address. We may also collect general data about your location, such as country, region, city (we do not collect your exact geolocation).
+
+To make the Service more useful to Users, our servers (which may be hosted by third-party service providers) collect your Personal Data, such as browser type, operating system, IP address (a number that is automatically assigned to your computer when using the Internet and which can vary from session to session), domain name and/or date/time of your visit.
+
+2. Cookies
+When you visit our Website, We may collect certain data about your computer or device using technologies such as cookies.
+
+Cookies are small pieces of data that a company sends to your computer and stores on your hard drive so that a website can recognize you when you visit it again. They collect statistics about your browsing activities and patterns and do not personally identify you.
+
+For example, We use cookies to save your country settings. If you are logged into our Website, cookies help us show you the information you need and your personal account settings.
+
+This helps us to improve Our Website and provide a more personalized service.
+
+We use cookies to enable and maintain our security and to help us detect malicious activity.
+
+You may control the use of cookies at your browser. Please note that if you disable cookies in your browser, in some cases, some of the functions of our Website may not work.
+
+3. Analytics
+We use Google Analytics and Firebase to track the behaviour of our Service users, how often you use the Services, events occurring within the Services, aggregated usage data, performance data and where our Software was downloaded from so that We can make improvements and improve the user experience.
+
+We do not link the information that we store in the analytics software with any personal data you submit as part of the Service.
+
+Firebase
+Firebase helps us understand user behaviour clearly, enabling you to make informed decisions about app marketing and performance optimization. For more information on Firebase privacy practices, please see https://firebase.google.com/terms/analytics
+
+Google Analytics
+Google Analytics is a third-party data storage system that records data about the pages you visit, the time during which you were on certain pages and the Website in general, how you got to the Website and what links you clicked when we were on Website. These cookies do not store your personal information, such as name, address, etc., and We do not share this data. For more information on Google's privacy practices see https://www.google.com/intl/en/policies/privacy/
+
+To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-out browser add-on by clicking here.
+
+IP address is a unique numeric address assigned to a computer when it logs on to the Internet. The company does not have access to any personal information and we will never ask for this data. Your IP address is recorded when you visit our Website, but our analytics software only uses this data to track the number of visitors from certain regions.
+
+Like most online services, We automatically collect this Personal Data and store it in log files each time you visit our Website or use our Services.
+
+4. Geolocation data
+If you use the Service, we may use GPS technology (or other similar technology such as GLONASS) to determine your exact geographic location. We may use and store your location data to provide the functionality of our Service.
+
+Besides, we may use it to analyse statistics and transfer this non-personal aggregated data to other parties. We will not use or share this data for any other purpose.
+
+When you use our Apps, they notify you of the collection of geolocation data by a corresponding indication of the App.
+
+Also, on many devices, an icon is displayed when location services are running.
+
+In order to provide you with our Services, in some cases the Apps may collect location data even when the App is closed or not in use. Use in the background is possible provided that the collection of location data was started by the User manually or with the help of manually set additional settings in the mobile application, as well as the User allowed for the mobile application to work in this mode. You may always cancel your allowance in the settings of your mobile phone.
+
+If you do not want us to use your location for the purposes above, you should turn off the GPS tracking device or disable location services for the mobile application located in your mobile phone settings and/or in the mobile application.
+
+Please note that if you disable a GPS tracking device or location services for a mobile application, in some cases, some of the functions of our Service may not work.
+
+5. Additional data received by our Apps
+To provide you with our Services, in some cases the Applications may collect information about the mobile phone on which the Application is installed. Such data may include:
+
+Altitude
+GPS status data:
+Number of satellites
+Accuracy of GPS signal in meters
+Indication of how GPS location (exact location) or approximate location is obtained
+The presence or absence of a stable GPS signal
+6. Data for receiving notifications
+To receive the Service of notifying about various events on your devices connected to our Service, We may collect the following data:
+
+Mobile phone number − if you choose to receive notifications in SMS
+We do not use the above data for other purposes, except for sending you notifications on your devices, which you manually enable in the settings of your personal account.
+
+Besides, our Applications may use Push notifications to inform you about events or remotely control/configure Applications from your personal account on the Site.
+
+7. Data received from hardware trackers
+If you use a hardware tracker to interact with the Service, We receive and collect only the data that the device manufacturer has programmed and prescribed in the Data Transfer Protocol. The data set depends on the specific manufacturer. Before purchasing and using a hardware tracker, we recommend that you read the device manufacturer's privacy statements.
+
+8. Anonymous data
+We may also collect anonymous data about visitors and use of our Service to create aggregate statistics or reports. However, no individual will be identified based on the anonymous data we collect for these purposes.
+
+9. Confidential information
+We do not collect or process any confidential information such as information related to racial or ethnic origin, political opinion, religious beliefs, physical or mental health or condition, crimes or court records, etc.
+
+Permissions requested by Our Apps
+Our Applications may request additional permissions (rights) to provide basic or additional functionality.
+
+You may manage these permissions in the app settings on your system.
+
+Apps request permissions as they use features and do not use the permissions, except as described in this privacy policy.
+
+Real Time GPS Tracker App (Android):
+Location − to ensure the main functionality of the application: to determine the exact location.
+Permission to work in the background (ACCESS_BACKGROUND_LOCATION) − to provide the main functions of the application: to save a detailed movement track and view the location in real time. Starting from Android 10, the application ID or a manually entered unique identifier is used instead of the IMEI.
+Device administrator − only to disable the ability to uninstall or forcefully stop the application. ATTENTION! This is optional, disabled by default and activated ONLY MANUALLY with your knowledge and the procedure from several confirmations of this action. There are no automatic inclusions of this option. The application does not use other features that the specified permission provides.
+Mobile Dispatcher App (Android):
+Location − is used to display your location (button on the map) and in the “Live Location” mode
+LiveGPS Travel Tracker App (Android):
+Location − to ensure the main functionality of the application: to determine the exact location.
+Permission to work in the background (ACCESS_BACKGROUND_LOCATION) - to provide the main functions of the application: to save a detailed movement.
+Unlimited data access - in order to update the map and check for updates.
+Mobile Dispatcher App (iOS):
+Location − is used to display your location (button on the map) and in the “Live Location” mode
+LiveGPS Travel Tracker App (iOS):
+Location − to ensure the main functionality of the application: to determine the exact location.
+Permission to work in the background (ACCESS_BACKGROUND_LOCATION) - to provide the main functions of the application: to save a detailed movement.
+Unlimited data access - in order to update the map and check for updates.
+Use of information collected
+We use the collected information for the following purposes:
+
+To ensure the functionality and improve the quality of our Services.
+To provide technical support to Users and to fix technical problems.
+To provide you with updates, special offers, promotional information or other information related to our Services.
+To ensure security and protection of our Services and to detect, prevent, and respond to fraud and other criminal activities.
+To process and manage your registration and account.
+How we share your data
+We do not share or sell your personal data to third parties except in the following cases:
+
+Legal Requirements: We may disclose your personal information to comply with legal obligations or respond to lawful requests from public authorities.
+Business Transfers: In the event of a merger, acquisition, or sale of all or a portion of our assets, your personal information may be transferred as part of that transaction.
+Data Security
+We implement appropriate technical and organizational measures to ensure the security of your personal data. However, no method of transmission over the Internet or method of electronic storage is completely secure, and we cannot guarantee its absolute security.
+
+Data Retention
+We retain your personal data for as long as necessary to provide our Services and fulfill the purposes described in this Privacy Policy. When we no longer need your personal data, we will securely delete or anonymize it.
+
+Your Rights
+You have the following rights regarding your personal data:
+
+Access: You can request access to the personal data we hold about you.
+Correction: You can request correction of any inaccurate or incomplete personal data.
+Deletion: You can request deletion of your personal data under certain conditions.
+Objection: You can object to the processing of your personal data based on legitimate interests or for direct marketing purposes.
+Restriction: You can request restriction of the processing of your personal data under certain conditions.
+To exercise these rights, please contact us using the contact details provided above.
+
+Changes to this Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page, and we will notify you of significant changes. Your continued use of our Services after any changes to this Privacy Policy constitutes your acceptance of the revised policy.
+
+Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+Contact email: spamscammer1995@gmail.com
